@@ -23,7 +23,7 @@ Add it to your `INSTALLED_APPS`:
     )
 
 
-    Update your project's urls.py:
+Update your project's urls.py:
 
     .. code-block:: python
 
