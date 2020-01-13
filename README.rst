@@ -10,7 +10,7 @@ Quickstart
 
 Install acdh-archeutils:
 
-    pip install acdh-archeutils
+    pip install acdh-django-archeutils
 
 Add it to your `INSTALLED_APPS`:
 
