@@ -1,6 +1,9 @@
 =============================
-acdh-archeutils
+acdh-django-archeutils
 =============================
+
+.. image:: https://badge.fury.io/py/acdh-django-archeutils.svg
+    :target: https://badge.fury.io/py/acdh-django-archeutils
 
 Django-App to serialize a model class into arche-rdf
 
